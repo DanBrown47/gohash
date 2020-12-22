@@ -1,1 +1,1 @@
-#Cryptic Hash solver in Go
+# Cryptic Hash solver in Go
